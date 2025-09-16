@@ -1,5 +1,4 @@
-('C:\\Users\\georg\\OneDrive\\Desktop\\New folder '
- '(6)\\build\\bl4crypt_ui\\PYZ-00.pyz',
+('C:\\Users\\georg\\OneDrive\\Desktop\\CRYptui\\build\\bl4crypt_ui\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\georg\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compat_pickle.py',
    'PYMODULE'),
