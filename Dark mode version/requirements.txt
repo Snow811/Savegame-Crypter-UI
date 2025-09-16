@@ -1,0 +1,11 @@
+# BL4 Crypt UI Requirements
+# PyQt5 for the modern dark theme GUI
+PyQt5>=5.15.0
+
+# PyInstaller for building the executable
+pyinstaller>=5.0.0
+
+# Additional utilities (usually included with Python)
+# subprocess - for running external commands
+# os - for file system operations
+# sys - for system-specific parameters
